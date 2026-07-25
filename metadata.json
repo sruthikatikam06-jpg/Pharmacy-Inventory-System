@@ -1,0 +1,6 @@
+{
+  "name": "Pharmix - AI Pharmacy Inventory System",
+  "description": "Professional AI-powered pharmacy inventory management, POS billing, smart stock forecasting, and expiry tracking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
